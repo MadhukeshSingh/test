@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 
 # Load the saved model and feature list
-model_path = r'C:\Users\Abhishek\Desktop\Uber_Fare\xgb_model_with_features.pkl'
+model_path = r'xgb_model_with_features.pkl'
 fare_model = None
 features = None
 
