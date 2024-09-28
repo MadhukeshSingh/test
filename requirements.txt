@@ -1,6 +1,7 @@
 ﻿numpy
 streamlit
 seaborn
+xgboost
 matplotlib
 plotly
 pandas
